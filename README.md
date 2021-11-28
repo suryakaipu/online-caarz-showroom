@@ -8,4 +8,4 @@ to the run this project, follow the below instructions:-
 
 3. start the app.js file: node app.js
 
-4. the server will be running at the localhost: 5000.
+4. the server will be running at the localhost: 5000 .
